@@ -131,7 +131,6 @@ JSON component specs use the same schema as the [Code Bridge Figma Plugin](https
 ## Related Projects
 
 - [code-audit-skill](https://github.com/garygisclair/code-audit-skill) — the reverse: extract design tokens from code
-- [bootstrap-figma-to-code-and-back-again](https://github.com/garygisclair/bootstrap-figma-to-code-and-back-again) — Code Bridge Figma plugin + JSON spec format
 
 ## Requirements
 
